@@ -1,4 +1,4 @@
-﻿namespace Calculator
+namespace Calculator
 {
     internal class Program
     {
@@ -76,7 +76,6 @@
                     Console.WriteLine("\n\nВыход...");
                     Environment.Exit(0);
                 }
-                Console.Clear();
                 Console.Clear();
             }
         }
